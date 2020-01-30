@@ -1,0 +1,6 @@
+owner=434328002604564495
+prefix=slx
+game=PLAY-SLUMS
+stayinchannel=true
+songinstatus=false
+token=NjcyMzg1ODg1NDMzNDk1NTYz.XjKuUg.A99iFqS0VWr7uSLCpjSlgmmAzJc
